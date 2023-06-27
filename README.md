@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mukesh
 - 👀 I’m interested in Coding and Problem Solving
-- 🌱 I’m currently learning DS&A in Java
+- 🌱 I’m a FrontEnd (ReactJs) Developer
 - 📫 Reach me via mukemukesh204@gmail.com
